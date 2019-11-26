@@ -4,7 +4,7 @@
     This script calculates which words of a certain font/size will fit inside
     a redaction box. It requires the user to search through the objects of the
     PDF first using the Interactive Console to find the details about the font
-    size, font and size of redaction box. Tutorial.pdf has a guide on this.
+    size, font and size of redaction box. Tutorial.pdf (under test) has a guide on this.
 	
     If the user wishes, he/she can use the implemented grammar parser (Stanford
     Parser) to obtain a parsing score and the script will sort the list for them.
